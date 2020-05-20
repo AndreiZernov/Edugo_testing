@@ -29,7 +29,7 @@ Project is created with:
 
 <h2 align="center"> Launch and Content</h2>
 
-<p align="center">To launch this project, go to https://andreizernov.netlify.app/</p>
+<p align="center">To launch this project, go to https://andreizernov-edugo-testing.netlify.app/</p>
 
 ---
 
@@ -50,4 +50,4 @@ LinkedIn at [Andrei Zernov](https://www.linkedin.com/in/andrei-zernov/)
 ---
 
 </div>
-"# Edugo_testing" 
+"# Edugo_testing"
