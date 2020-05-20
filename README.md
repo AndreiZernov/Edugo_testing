@@ -2,8 +2,8 @@
 <img src="./public/logoBlack.png"></img>
 </div>
 
-<h1 align="center">Andrei Zernov</h1>
-<h1 align="center">My Professional Portfolio</h1>
+<h1 align="center">Andrei_Zernov - Edugo.ai testing</h1>
+<h1 align="center">Testing</h1>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/92fb0ce07c3745b88ba00cf1f6a92581)](https://www.codacy.com/manual/AndreiZernov/Portfolio?utm_source=github.com&utm_medium=referral&utm_content=AndreiZernov/Portfolio&utm_campaign=Badge_Grade)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
@@ -22,8 +22,6 @@ Project is created with:
   <li>antd: 4.2.4</li>
   <li>uuid: 8.0.0</li>
 </ul>
-
-,
 
 ---
 
@@ -50,4 +48,3 @@ LinkedIn at [Andrei Zernov](https://www.linkedin.com/in/andrei-zernov/)
 ---
 
 </div>
-"# Edugo_testing"
