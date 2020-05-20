@@ -5,7 +5,7 @@
 <h1 align="center">Andrei_Zernov - Edugo.ai testing</h1>
 <h1 align="center">Testing</h1>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/92fb0ce07c3745b88ba00cf1f6a92581)](https://www.codacy.com/manual/AndreiZernov/Portfolio?utm_source=github.com&utm_medium=referral&utm_content=AndreiZernov/Portfolio&utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e48c864940f94547aeee3f532895c123)](https://www.codacy.com/manual/AndreiZernov/Edugo_testing?utm_source=github.com&utm_medium=referral&utm_content=AndreiZernov/Edugo_testing&utm_campaign=Badge_Grade)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
 
