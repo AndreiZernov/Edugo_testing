@@ -97,7 +97,7 @@ const MainPage = observer(() => {
         )}
         <h1>Total Items: {data.length}</h1>
       </div>
-      <Form style={{ minWidth: "550px" }}>
+      <Form style={{ minWidth: "620px" }}>
         <Table
           bordered
           columns={columns}
